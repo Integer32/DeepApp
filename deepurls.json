@@ -10,7 +10,7 @@
         "src": "Images/Sun.png",
         "name": "sun1",
         "hOffset": 255,
-        "vOffset": 790,
+        "vOffset": 720,
         "alignment": "center"
     },
     "text": {
