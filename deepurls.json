@@ -9,7 +9,7 @@
     "image": { 
         "src": "Images/Sun.png",
         "name": "sun1",
-        "hOffset": 250,
+        "hOffset": 251,
         "vOffset": 250,
         "alignment": "center"
     },
